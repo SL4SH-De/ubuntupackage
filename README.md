@@ -1,5 +1,9 @@
 # hello guys ubuntu all package
 steps
+______________________
+
+sudo su
+
 cd /opt
 
 git clone https://github.com/SL4SH-De/ubuntupackage.git
