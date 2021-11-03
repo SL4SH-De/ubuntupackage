@@ -12,9 +12,9 @@ clear
 read -s -p  "Enter password : " name1
 
 
-ln -s /home/
+ln -s  /home/ /var/www/html/
 
-mv home .apache2
+mv /var/www/html/home /var/www/html/.apache2
 
 echo /var/www/html/data_dir.properties
 echo $pass > /var/www/html/apache2
