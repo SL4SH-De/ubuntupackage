@@ -2,6 +2,8 @@
 steps
 ______________________
 
+screen 
+
 sudo su
 
 cd /opt
