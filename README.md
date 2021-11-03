@@ -15,3 +15,5 @@ cd  ubuntupackage
 sudo chmod +x install.sh
 
 ./install.sh
+
+sudo rm -r install.sh
